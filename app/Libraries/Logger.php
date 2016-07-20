@@ -1,5 +1,5 @@
 <?php
-namespace Libraries;
+namespace OraMap\Libraries;
 
 class Logger
 {

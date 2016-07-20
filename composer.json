@@ -14,7 +14,8 @@
     },
     "autoload": {
         "psr-4": {
-            "OraMap\\": "app"
+            "OraMap\\": "app",
+            "Test\\": "test"
         }
     }
 }
